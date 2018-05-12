@@ -1,0 +1,27 @@
+_repo: The-Great-Amulet_20238
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Diver, Maud
+    birthdate: 1867
+    deathdate: 1945
+    gutenberg_agent_id: '6213'
+    url: http://www.gutenberg.org/2009/agents/6213
+description: ''
+gutenberg_issued: '2006-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20238'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- History -- British occupation, 1765-1947 -- Fiction'
+- !lcc 'PR'
+- !lcsh 'British -- India -- Fiction'
+title: The Great Amulet
+url: http://www.gutenberg.org/ebooks/20238
